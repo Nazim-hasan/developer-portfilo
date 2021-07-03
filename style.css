@@ -9,7 +9,7 @@ h1{
 .name{
     color: orange;
 }
-section{
+.flexiable-container{
     display: flex;
 }
 .half-width{
